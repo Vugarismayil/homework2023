@@ -1,0 +1,14 @@
+C:\Users\ivuqa\source\repos\applicationtest\applicationtest\bin\Debug\netcoreapp3.1\applicationtest.exe
+C:\Users\ivuqa\source\repos\applicationtest\applicationtest\bin\Debug\netcoreapp3.1\applicationtest.deps.json
+C:\Users\ivuqa\source\repos\applicationtest\applicationtest\bin\Debug\netcoreapp3.1\applicationtest.runtimeconfig.json
+C:\Users\ivuqa\source\repos\applicationtest\applicationtest\bin\Debug\netcoreapp3.1\applicationtest.runtimeconfig.dev.json
+C:\Users\ivuqa\source\repos\applicationtest\applicationtest\bin\Debug\netcoreapp3.1\applicationtest.dll
+C:\Users\ivuqa\source\repos\applicationtest\applicationtest\bin\Debug\netcoreapp3.1\applicationtest.pdb
+C:\Users\ivuqa\source\repos\applicationtest\applicationtest\obj\Debug\netcoreapp3.1\applicationtest.csproj.AssemblyReference.cache
+C:\Users\ivuqa\source\repos\applicationtest\applicationtest\obj\Debug\netcoreapp3.1\applicationtest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivuqa\source\repos\applicationtest\applicationtest\obj\Debug\netcoreapp3.1\applicationtest.AssemblyInfoInputs.cache
+C:\Users\ivuqa\source\repos\applicationtest\applicationtest\obj\Debug\netcoreapp3.1\applicationtest.AssemblyInfo.cs
+C:\Users\ivuqa\source\repos\applicationtest\applicationtest\obj\Debug\netcoreapp3.1\applicationtest.csproj.CoreCompileInputs.cache
+C:\Users\ivuqa\source\repos\applicationtest\applicationtest\obj\Debug\netcoreapp3.1\applicationtest.dll
+C:\Users\ivuqa\source\repos\applicationtest\applicationtest\obj\Debug\netcoreapp3.1\applicationtest.pdb
+C:\Users\ivuqa\source\repos\applicationtest\applicationtest\obj\Debug\netcoreapp3.1\applicationtest.genruntimeconfig.cache
